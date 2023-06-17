@@ -1,0 +1,90 @@
+[
+    {
+        "merged": "com.st.accounts.app-merged_res-5:/drawable_ic_add_transaction.jpg.flat",
+        "source": "com.st.accounts.app-main-7:/drawable/ic_add_transaction.jpg"
+    },
+    {
+        "merged": "com.st.accounts.app-merged_res-5:/layout_listaccounts.xml.flat",
+        "source": "com.st.accounts.app-main-7:/layout/listaccounts.xml"
+    },
+    {
+        "merged": "com.st.accounts.app-merged_res-5:/layout_add_transaction.xml.flat",
+        "source": "com.st.accounts.app-main-7:/layout/add_transaction.xml"
+    },
+    {
+        "merged": "com.st.accounts.app-merged_res-5:/drawable_ic_list_accounts.png.flat",
+        "source": "com.st.accounts.app-main-7:/drawable/ic_list_accounts.png"
+    },
+    {
+        "merged": "com.st.accounts.app-merged_res-5:/layout_transaction.xml.flat",
+        "source": "com.st.accounts.app-main-7:/layout/transaction.xml"
+    },
+    {
+        "merged": "com.st.accounts.app-merged_res-5:/drawable-ldpi_ic_launcher.png.flat",
+        "source": "com.st.accounts.app-main-7:/drawable-ldpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.st.accounts.app-merged_res-5:/layout_account_transaction.xml.flat",
+        "source": "com.st.accounts.app-main-7:/layout/account_transaction.xml"
+    },
+    {
+        "merged": "com.st.accounts.app-merged_res-5:/layout_update_account.xml.flat",
+        "source": "com.st.accounts.app-main-7:/layout/update_account.xml"
+    },
+    {
+        "merged": "com.st.accounts.app-merged_res-5:/drawable-mdpi_ic_launcher.png.flat",
+        "source": "com.st.accounts.app-main-7:/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.st.accounts.app-merged_res-5:/layout_transaction_details.xml.flat",
+        "source": "com.st.accounts.app-main-7:/layout/transaction_details.xml"
+    },
+    {
+        "merged": "com.st.accounts.app-merged_res-5:/layout_addaccount.xml.flat",
+        "source": "com.st.accounts.app-main-7:/layout/addaccount.xml"
+    },
+    {
+        "merged": "com.st.accounts.app-merged_res-5:/drawable-hdpi_ic_launcher.png.flat",
+        "source": "com.st.accounts.app-main-7:/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.st.accounts.app-merged_res-5:/drawable_ic_add_account.jpg.flat",
+        "source": "com.st.accounts.app-main-7:/drawable/ic_add_account.jpg"
+    },
+    {
+        "merged": "com.st.accounts.app-merged_res-5:/layout_list_account_transactions.xml.flat",
+        "source": "com.st.accounts.app-main-7:/layout/list_account_transactions.xml"
+    },
+    {
+        "merged": "com.st.accounts.app-merged_res-5:/layout_list_transactions.xml.flat",
+        "source": "com.st.accounts.app-main-7:/layout/list_transactions.xml"
+    },
+    {
+        "merged": "com.st.accounts.app-merged_res-5:/drawable_ic_search_transactions.jpg.flat",
+        "source": "com.st.accounts.app-main-7:/drawable/ic_search_transactions.jpg"
+    },
+    {
+        "merged": "com.st.accounts.app-merged_res-5:/layout_account.xml.flat",
+        "source": "com.st.accounts.app-main-7:/layout/account.xml"
+    },
+    {
+        "merged": "com.st.accounts.app-merged_res-5:/menu_common_menu.xml.flat",
+        "source": "com.st.accounts.app-main-7:/menu/common_menu.xml"
+    },
+    {
+        "merged": "com.st.accounts.app-merged_res-5:/drawable_ic_recent_transactions.jpg.flat",
+        "source": "com.st.accounts.app-main-7:/drawable/ic_recent_transactions.jpg"
+    },
+    {
+        "merged": "com.st.accounts.app-merged_res-5:/layout_search_transactions.xml.flat",
+        "source": "com.st.accounts.app-main-7:/layout/search_transactions.xml"
+    },
+    {
+        "merged": "com.st.accounts.app-merged_res-5:/drawable_datepicker.png.flat",
+        "source": "com.st.accounts.app-main-7:/drawable/datepicker.png"
+    },
+    {
+        "merged": "com.st.accounts.app-merged_res-5:/drawable_cell.xml.flat",
+        "source": "com.st.accounts.app-main-7:/drawable/cell.xml"
+    }
+]

@@ -1,0 +1,4 @@
+#Wed Jul 20 10:08:39 IST 2022
+base.0=C\:\\Users\\vinay\\Downloads\\accountstracker1\\accountstracker1\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

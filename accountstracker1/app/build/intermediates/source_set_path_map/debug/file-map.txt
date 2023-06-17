@@ -1,0 +1,8 @@
+com.st.accounts.app-pngs-0 C:\Users\vinay\Downloads\accountstracker1\accountstracker1\app\build\generated\res\pngs\debug
+com.st.accounts.app-resValues-1 C:\Users\vinay\Downloads\accountstracker1\accountstracker1\app\build\generated\res\resValues\debug
+com.st.accounts.app-rs-2 C:\Users\vinay\Downloads\accountstracker1\accountstracker1\app\build\generated\res\rs\debug
+com.st.accounts.app-mergeDebugResources-3 C:\Users\vinay\Downloads\accountstracker1\accountstracker1\app\build\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.st.accounts.app-mergeDebugResources-4 C:\Users\vinay\Downloads\accountstracker1\accountstracker1\app\build\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.st.accounts.app-merged_res-5 C:\Users\vinay\Downloads\accountstracker1\accountstracker1\app\build\intermediates\merged_res\debug
+com.st.accounts.app-debug-6 C:\Users\vinay\Downloads\accountstracker1\accountstracker1\app\src\debug\res
+com.st.accounts.app-main-7 C:\Users\vinay\Downloads\accountstracker1\accountstracker1\app\src\main\res
